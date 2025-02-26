@@ -1,7 +1,11 @@
 # HevSocks5Tunnel
 https://github.com/heiher/hev-socks5-tunnel 的ios依赖
 
-ios-arm64 ios-arm64_x86_64-simulator macos-arm64_x86_64
+ios-arm64  
+ios-arm64_x86_64-simulator  
+macos-arm64_x86_64  
+tvos-arm64  
+tvos-arm64_x86_64-simulator
 
 # zip
 ```shell
